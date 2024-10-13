@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.6.1"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
