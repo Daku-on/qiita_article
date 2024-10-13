@@ -1,10 +1,10 @@
 ---
-title: "Node.jsのバージョンが低すぎてQiita CLIでエラー出した件"
+title: Node.jsのバージョンが低すぎてQiita CLIでエラー出した件
 tags:
-  - 'Qiita CLI'
+  - QiitaCLI
 private: false
-updated_at: '2024/10/13'
-id: null
+updated_at: '2024-10-13T21:31:36+09:00'
+id: d6ac4cd6703adee892cd
 organization_url_name: null
 slide: false
 ignorePublish: false
@@ -67,3 +67,7 @@ Hi Daku-on!
 よっしゃぁ！
 
 ということでこの記事のpublishに至るわけです。ちゃんちゃん。
+
+## 後日談
+
+と思ったらタグのQiita CLIのスペースを入れてしまったことでGitHub Actionsが回らなくて大変焦りました。
