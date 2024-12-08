@@ -1,13 +1,13 @@
 ---
 title: ポケポケ連勝エンブレム問題
 tags:
-  - "ネタ" # タグ（ブロックスタイルで複数タグを追加できます）
-private: false # true: 限定共有記事 / false: 公開記事
-updated_at: "" # 記事を投稿した際に自動的に記事の更新日時に変わります
-id: null # 記事を投稿した際に自動的に記事のUUIDに変わります
-organization_url_name: null # 関連付けるOrganizationのURL名
-slide: false # true: スライドモードON / false: スライドモードOFF
-ignorePublish: false # true: `publish`コマンドにおいて無視されます（Qiitaに投稿されません） / false: `publish`コマンドで処理されます（Qiitaに投稿されます）
+  - ネタ
+private: false
+updated_at: '2024-12-08T19:02:13+09:00'
+id: 104ea6867af516ab636c
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
 # みんなで効率よくエンブレムゲットしよう。
 
