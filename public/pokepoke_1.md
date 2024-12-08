@@ -5,6 +5,9 @@ tags:
   - 可視化
 private: true
 ignorePublish: false
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
 # みんなで効率よくエンブレムゲットしよう。
 
