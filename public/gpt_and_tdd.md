@@ -1,11 +1,11 @@
 ---
 title: GPT-4oのキャンバス機能でテストファーストfizzbuzz実装をやってみた話
 tags:
-  - 'ChatGPT'
-  - 'テストファースト'
+  - テストファースト
+  - ChatGPT
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-12-11T21:41:50+09:00'
+id: 170d0a5a71fb9c8d1b65
 organization_url_name: null
 slide: false
 ignorePublish: false
