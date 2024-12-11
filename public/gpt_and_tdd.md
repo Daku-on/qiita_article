@@ -4,7 +4,7 @@ tags:
   - テストファースト
   - ChatGPT
 private: false
-updated_at: '2024-12-11T22:11:58+09:00'
+updated_at: '2024-12-11T22:14:45+09:00'
 id: 170d0a5a71fb9c8d1b65
 organization_url_name: null
 slide: false
