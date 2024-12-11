@@ -95,6 +95,8 @@ def test_fizzbuzz(
 
 ということでやってまいりましたGPT-4oさんのキャンバス。実は使ったことがなかったのですが、これがまた便利。以下がデモ画像になります。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eeSXUrk5QvQ?si=zktBOpgSXqSUg70C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 (そもそもこのデモ、テストから書き始めてないじゃんというツッコミはさておき) 「テストが通りません。どうすればいいですか」とかなり丸投げしても適切に回答していることがわかります。エラーをはっきり伝えられない場合でも (fizzbuzz程度なら) 適切に対応してくれることがわかります。対応が適切どころかほぼネタバレになってしまっていますが、ここはシステムプロンプトなどで対応の領域でしょう。
 
 これ個人的にびっくりしたんですが、適切にmainを書くと (これもエラーぶん投げてGPTに書いてもらいましたが) キャンバスでunittestが実行できるんですね。標準ライブラリの強みが出ています。pytestはだめでした。
