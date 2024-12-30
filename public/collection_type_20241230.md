@@ -1,12 +1,12 @@
 ---
 title: メモリ vs 速度 vs 可読性、設計のトレードオフに向き合った経験
 tags:
-  - 'トレードオフ'
-  - 'コレクション型'
-  - 'Python'
+  - Python
+  - トレードオフ
+  - コレクション型
 private: true
-updated_at: ''
-id: null
+updated_at: '2024-12-30T23:42:29+09:00'
+id: 8bc133403b1ad3ca77e8
 organization_url_name: null
 slide: false
 ignorePublish: false
