@@ -9,7 +9,7 @@ updated_at: '2024-12-30T23:42:29+09:00'
 id: 8bc133403b1ad3ca77e8
 organization_url_name: null
 slide: false
-ignorePublish: true
+ignorePublish: false
 ---
 # Pythonのコレクション型、多すぎ...???
 
