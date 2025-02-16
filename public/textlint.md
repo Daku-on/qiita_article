@@ -1,7 +1,7 @@
 ---
-title: textlint
+title: textlint試してみた
 tags:
-  - ''
+  - 'テスト用記事'
 private: false
 updated_at: ''
 id: null
@@ -12,3 +12,5 @@ ignorePublish: True
 # new article body
 
 texlintが聞いているかどうか確かめるためにあえてめちゃくちにゃ分を書いてみる
+
+にわにはにわにわとりがいる
