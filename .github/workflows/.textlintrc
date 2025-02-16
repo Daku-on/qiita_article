@@ -1,8 +1,8 @@
 {
     "rules": {
         "preset-ja-technical-writing": {
-            "sentence-length": false,
-            "ja-no-weak-phrase": false
+            "sentence-length": true,
+            "ja-no-weak-phrase": true
         },
         "prh": {
             "rulePaths": [
