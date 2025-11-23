@@ -3,7 +3,7 @@ title: 事実ベースPLと価値判断メンバーの相性が良かった件
 tags:
   - リーダーシップ
 private: false
-updated_at: '2025-11-23T09:31:24+09:00'
+updated_at: '2025-11-23T09:32:31+09:00'
 id: 7482bfafb31a6ca4587a
 organization_url_name: null
 slide: false
