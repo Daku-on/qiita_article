@@ -3,7 +3,7 @@ title: 【Gemini 3.0】仕事がバチクソ楽しくなった話 〜SoTAモデ�
 tags:
   - Gemini
 private: false
-updated_at: '2025-11-23T09:31:24+09:00'
+updated_at: '2025-11-23T09:35:18+09:00'
 id: c5897718c21950bb9804
 organization_url_name: null
 slide: false
