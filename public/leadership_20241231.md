@@ -1,5 +1,5 @@
 ---
-title: leadership_20241231
+title: 事実ベースPLと価値判断メンバーの相性が良かった件
 tags:
   - 'リーダーシップ'
 private: false
@@ -9,8 +9,6 @@ organization_url_name: null
 slide: false
 ignorePublish: false
 ---
-# 事実ベースPLと価値判断メンバーの相性が良かった件
-
 ## はじめに  
 
 あるプロジェクトで、僕（価値判断ベースで動くタイプ）とPL（事実ベースで動くタイプ）が組んだ経験がある。このときの連携が思いのほかうまくいったので、なぜそうなったのかを整理してみる。  
