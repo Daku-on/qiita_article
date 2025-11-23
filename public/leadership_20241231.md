@@ -1,7 +1,7 @@
 ---
 title: leadership_20241231
 tags:
-  - ''
+  - 'リーダーシップ'
 private: false
 updated_at: ''
 id: null
