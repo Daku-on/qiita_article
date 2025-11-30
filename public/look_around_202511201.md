@@ -2,7 +2,7 @@
 title: 「これでいいのか」と手が止まった時に。「内を向かない」という言葉が、私の視界をどう変えたか
 tags:
   - マインドセット
-private: true
+private: false
 updated_at: '2025-12-01T07:55:25+09:00'
 id: bf83375632c1aea993f1
 organization_url_name: null
