@@ -3,8 +3,8 @@ title: 「これでいいのか」と手が止まった時に。「内を向か�
 tags:
   - マインドセット
 private: true
-updated_at: 
-id: 
+updated_at: '2025-12-01T07:55:25+09:00'
+id: bf83375632c1aea993f1
 organization_url_name: null
 slide: false
 ignorePublish: false
