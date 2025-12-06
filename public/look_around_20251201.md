@@ -12,7 +12,9 @@ ignorePublish: false
 
 
 ファインディでLLMエンジニアをしているだくおん (だーさん) です。
-この記事はファインディエンジニア #3 Advent Calendar 2025の1日目の記事です。
+この記事は [🎄ファインディエンジニア #3 Advent Calendar 2025](https://adventar.org/calendars/11862) 1日目の投稿です。
+
+[https://adventar.org/calendars/11862:embed:cite]
 
 普段は生成AIを使ってどう機能を実現するか、技術的な実装や検証の話をすることが多いのですが、今日はあえて少し泥臭い「マインドセット」の話を書こうと思います。
 
